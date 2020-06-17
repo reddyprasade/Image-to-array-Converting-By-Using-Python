@@ -1,0 +1,2 @@
+# Image-to-array-Converting-By-Using-Python
+n machine learning, Python uses image data in the form of a NumPy array, i.e., [Height, Width, Channel] format. To enhance the performance of the predictive model, we must know how to load and manipulate images. In Python, we can perform one task in different ways. We have options from Numpy to Pytorch and CUDA, depending on the complexity of the problem.
